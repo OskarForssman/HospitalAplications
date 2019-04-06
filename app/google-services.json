@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "859411842902",
+    "firebase_url": "https://hospitalapllication.firebaseio.com",
+    "project_id": "hospitalapllication",
+    "storage_bucket": "hospitalapllication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859411842902:android:c5deff1b0792851b",
+        "android_client_info": {
+          "package_name": "com.example.hospitalaplications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2zqO3eBQQqc5k1YVJwOYJAjXo5oWGOcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859411842902-8nu5pk2fke5rjrc0eb3dgiidcqtrvik7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
